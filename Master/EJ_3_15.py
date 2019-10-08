@@ -15,5 +15,5 @@ a=B
 B=A
 A=a
 
-print("El valor nuevo de A es: ",A)
-print("El valor nuevo de B es: ",B)
+print("El valor nuevo de A es : ",A)
+print("El valor nuevo de B es : ",B)
